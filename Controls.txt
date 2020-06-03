@@ -1,0 +1,2 @@
+You move with the arrows. To destroy a block, press 'x'. To put out a block, press 'v'.
+To change the block that you have in your hands, press 'n' (next).
